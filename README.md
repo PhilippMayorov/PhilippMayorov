@@ -1,6 +1,6 @@
 👋 Hey there, 
 
-I’m Philipp Mayorov, A Computer Science student at Western University.   
+I’m Philipp Mayorov, a Computer Science student at Western University.   
 
 What I am currently working on 👀 : 
 
@@ -9,10 +9,10 @@ What I am currently working on 👀 :
 Description: A campsite web application marketplace that connects people who want to rent out their campsite with people wanting to accommodate a campsite (similar to Air bnb). Users can view the available places for rent or create an account and post their property for Rent. 
 
 Skills Presented: 
-- Used Chainable Route Handlers to enure valid input from users using Joi nmp Package manager and Boostrap
-- Utilized CRUD as usesr can create, delete, Post and udpate utilizing Expres and MongoDB 
-- Creating a eye-appealing and user friendly interface using HTML/CSS and bootsrap
-- Applied DRY (Dont repeat Yourself) style of coding to minmize code
+- Used Chainable Route Handlers to ensure valid input from users using Joi nmp Package manager and Bootstrap
+- Utilized CRUD as usesr can create, delete, Post and update utilizing Expres and MongoDB 
+- Creating an eye-appealing and user-friendly interface using HTML/CSS and bootstrap
+- Applied DRY (Dont repeat Yourself) style of coding to minimize code
 
 * Project is still under development. Once completed, it will be hosted online 
 
