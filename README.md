@@ -6,22 +6,24 @@ What I am currently working on 👀 :
 
 ** Camphaven: **
 
-Link: https://camphaven.onrender.com 
-
-Description: A campsite web application marketplace that connects people who want to rent out their campsite with people wanting to accommodate a campsite (similar to Air bnb). Users can view the available places for rent or create an account and post their property for Rent. 
+Description: A campsite web application marketplace that connects people who want to rent out their campsite with people wanting to accommodate a campsite (similar to Air bnb). Users can view available places for rent or create an account and post their listing for Rent. 
 
 Skills Presented: 
-- Used Chainable Route Handlers to ensure valid input from users using Joi nmp Package manager and Bootstrap
-- Utilized CRUD as usesr can create, delete, Post and update utilizing Expres and MongoDB 
-- Creating an eye-appealing and user-friendly interface using HTML/CSS and bootstrap
-- Applied DRY (Dont repeat Yourself) style of coding to minimize code
+- Used Chainable Route Handlers to ensure valid input from users using Joi Package Manager and Bootstrap
+- Utilized CRUD as users can create, delete, Post and update their listings
+- Created scalable Databases Successfully store user account details, Property Listings, and reviews Using MongoDB.  
+- Creating an eye-appealing and user-friendly interface using HTML/CSS, Bootstrap and Mapblox Package
+- User accounts are fully authenticated and Authorized to delete and edit only their listing and reviews.
+- Cyber-security implementation prevention such as MongoDB Injection, and cross-site scripting.
 
-* Project is still under development. Once completed, it will be hosted online 
+Fully Deployed and Hosted on Render: 
+
+Link: https://camphaven.onrender.com 
 
 
 🌱 Future Goals: 
 
-- Apply my skills to a proffesional setting
+- Apply my skills to a professional setting, an
 - Work on a second project (Twitter Senitment analysis). In short, users can input a tweet link, and the web application will calculate its text sentiment score.  
 - Learn React Native, PostSQL, AWS, and Machine Learning.
 
