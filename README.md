@@ -27,6 +27,8 @@ Skills Presented:
 
 
 📫 Reach out to me through:
+
 Email: Philipp.Mayorov04@gmail.com
+
 Linkedin: https://www.linkedin.com/in/philipp-mayorov/
 
