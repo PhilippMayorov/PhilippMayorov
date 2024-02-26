@@ -11,7 +11,7 @@ Description: A campsite web application marketplace that connects people who wan
 Skills Presented: 
 - Used Chainable Route Handlers to ensure valid input from users using Joi Package Manager and Bootstrap
 - Utilized CRUD as users can create, delete, Post and update their listings
-- Created scalable Databases Successfully store user account details, Property Listings, and reviews Using MongoDB.  
+- Created scalable Databases that successfully store user account details, Property Listings, and reviews Using MongoDB.  
 - Creating an eye-appealing and user-friendly interface using HTML/CSS, Bootstrap and Mapblox Package
 - User accounts are fully authenticated and Authorized to delete and edit only their listing and reviews.
 - Cyber-security implementation prevention such as MongoDB injection, and cross-site scripting.
