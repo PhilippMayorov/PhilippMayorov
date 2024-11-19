@@ -6,7 +6,7 @@ What I am currently working on 👀 :
 
 ** Camphaven: **
 
-Description: A campsite web application marketplace that connects people who want to rent out their campsite with people wanting to accommodate a campsite (similar to Air BnB). Users can view available places for rent or create an account and post their listing for Rent. 
+Description: A campsite web application marketplace that connects people who want to rent out their campsite with people wanting to accommodate a campsite (similar to Air BnB). Users can view available places for rent or create an account and post their rental listing. 
 
 Skills Presented: 
 - Used Chainable Route Handlers to ensure valid input from users using Joi Package Manager and Bootstrap
