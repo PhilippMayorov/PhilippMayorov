@@ -3,8 +3,7 @@
 I’m Philipp Mayorov, a Computer Science student at Western University.
 
 🚀 What I’m Currently Working On
-Portfolio Website:
-Check out more details on my Portfolio Website.
+Portfolio Website: https://philipps-portfolio.vercel.app/project
 
 🌟 Projects
 Free Spotify Premium
